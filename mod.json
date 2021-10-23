@@ -1,0 +1,12 @@
+{
+  "name": "free-campaign",
+ "displayName": "free-campaign-自由战役",
+  "author": "[pink]编[cyan]号[red]95[violet]27",
+  "description": "Added one planet. More than 500 maps，
+  The planet code of this MOD is fully open, support 132 + version, welcome to use
+  增加了一个行星，地图有500个以上
+  本MOD的行星代码完全公开，支持132以上版本，欢迎拿去使用",
+  
+  "version": "0.2",
+  "minGameVersion": 132
+}
